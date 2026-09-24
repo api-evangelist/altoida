@@ -1,0 +1,11 @@
+generated: 2026-09-24
+method: probed
+source: https://altoida.com/wp-json/mcp
+
+deployment:
+  mode: remote
+  endpoint: https://altoida.com/wp-json/mcp/mcp-adapter-default-server
+  install: ""
+  package: ""
+  auth: none
+  verified: probed
